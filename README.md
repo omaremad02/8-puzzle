@@ -26,7 +26,8 @@ The 8-puzzle problem is a classic problem in the field of artificial intelligenc
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/omaremad02/8-puzzle.git
+```bash
+git clone https://github.com/your-username/8-puzzle.git
 cd 8-puzzle
 
 2. Run the main script:
