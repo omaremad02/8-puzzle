@@ -6,7 +6,6 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Usage](#usage)
 - [Algorithms](#algorithms)
 
 ## Introduction
@@ -22,18 +21,6 @@ The 8-puzzle problem is a classic problem in the field of artificial intelligenc
 - Visualize the solution path and explore metrics such as expanded nodes and elapsed time for each algorithm.
 - Check solvability of input puzzles to ensure valid inputs.
 - Easy-to-use interface with clear instructions for running the project.
-
-## Usage
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/8-puzzle.git
-cd 8-puzzle
-```
-2. Run the main script:
-python 8-puzzle.py
-
-3. Follow the on-screen instructions to input your initial puzzle state and choose the algorithm.
 
 ## Algorithms
 
